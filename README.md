@@ -1,4 +1,4 @@
-# Maven Scala project template
+# Maven Scala 2.11.X project template
 
 This project can support both Maven and Java code, just put them into respective folders
 
